@@ -1,9 +1,12 @@
 Logs all keystrokes to a text file.
 
-text file can be found in the same directory as the keylogger.py
+Text file can be found in the same directory as the keylogger.py
+
+git clone this repository:
 
 
 Requirements
+
 Python 3.x
 
  `pynput` library
